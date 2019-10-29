@@ -1,0 +1,48 @@
+d1 {
+    color: lightpink;
+}
+d2 {
+    color: orange;
+}
+fs {
+	font-size: 50;
+}
+
+f30 {
+	font-size: 30;
+}
+f20 {
+	font-size: 25;
+}
+f10 {
+	font-size: 10;
+}
+f15 {
+	font-size: 15;
+}
+f40 {
+	font-size: 40;
+}
+d3 {
+    color: brown;
+}
+d4 {
+    color: blue;
+}
+d5 {
+    color: red;
+}
+d6 {
+    color: green;
+}
+
+
+
+ echo "<tr><th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUsername</d4></th>
+ <th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUniversity</d4></th>
+ <th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspCompany</d4></th>
+ <th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAddress</d4></th>
+ <th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEmail</d4></th>
+ <th><d4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspContact</d4></th></tr>";
+
+
